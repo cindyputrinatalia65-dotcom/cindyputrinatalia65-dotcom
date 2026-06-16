@@ -6,7 +6,6 @@ Saya adalah seorang pelajar/mahasiswa yang tertarik di bidang teknologi dan pemr
 - 🔭 Saya saat ini sedang fokus belajar pemrograman dan pengembangan web.
 - 🌱 Saya selalu tertarik untuk mempelajari hal-hal baru seputar dunia IT.
 - 💬 Tanya saya tentang: Tugas kuliah, coding dasar, atau proyek web.
-- 📫 Cara menghubungi saya: [Masukkan Email atau Media Sosialmu di sini]
-
+- 📫 Cara menghubungi saya: cindyputrinatalia65@gmail.com
 ---
 *Terima kasih sudah berkunjung ke profil GitHub saya!* 📊
